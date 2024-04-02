@@ -1,15 +1,15 @@
 .header {
-    display: grid;
-    grid-template-columns: 1fr min-content 1fr;
-    align-items: center;
-    padding: 92px 49px 96px 51px;
+  display: grid;
+  grid-template-columns: 1fr min-content 1fr;
+  align-items: center;
+  padding: 92px 49px 96px 51px;
 }
 
 .header__links-list {
-    display: flex;
-    align-items: center;
-    gap: 34px;
-    list-style: circle;
+  display: flex;
+  align-items: center;
+  gap: 34px;
+  list-style: circle;
   }
 
   .header__links-list-item_no-bullit {
